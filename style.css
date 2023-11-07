@@ -1,0 +1,30 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  body {
+    background:#908484;
+    color:white;
+    underbody:#f54764;
+  }
+  
+  h2 {
+    color:blue;
+    font-family: "Comic Sans MS";
+    text-align: center;
+  }
+  
+  h3 {
+    color:#c6df49;
+    font-family: "Comic Sans MS";
+    text-align: right;
+  }
+  
+  h5 {
+    text-shadow: 2px 2px 5px #ffea00;
+  }
+  
+  img {
+    border-radius: 75%;
+  }
